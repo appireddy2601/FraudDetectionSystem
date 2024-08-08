@@ -28,34 +28,6 @@ git clone https://github.com/yourusername/FraudDetectionSystem.git
 cd FraudDetectionSystem
 jupyter notebook FraudDetectionSystem.ipynb
 
-
-
-To provide the list of required libraries for a fraud detection project in an IPython notebook, you would typically need libraries for data manipulation, machine learning, and visualization. Here's a common list of Python libraries that you might need:
-
-pandas: For data manipulation and analysis.
-numpy: For numerical operations.
-scikit-learn: For machine learning algorithms and model evaluation.
-matplotlib: For plotting and visualization.
-seaborn: For statistical data visualization.
-imbalanced-learn: For handling imbalanced datasets.
-xgboost: For gradient boosting algorithms.
-requirements.txt
-Create a requirements.txt file with the following content:
-
-plaintext
-Copy code
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-imbalanced-learn
-xgboost
-Adding to README File
-In the README file, under the Installation section, you can mention the requirements.txt file for installing the necessary libraries:
-
-markdown
-Copy code
 ## Installation
 To run the notebook, you'll need to install the required Python libraries. You can do this using the following command:
 
