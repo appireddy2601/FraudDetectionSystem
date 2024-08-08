@@ -1,0 +1,9 @@
+INSTALL THIS REQUIRED LIBRARIES IN YOUR WORKING PC/LAPTOP
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+xgboost
