@@ -21,7 +21,16 @@ The dataset used in this project contains transaction records, with features rep
 ## Installation
 To run the notebook, you'll need to install the required Python libraries. You can do this using the following command:
 
-```bash
-pip install -r requirements.txt ```
+## Results
+The notebook provides detailed steps and results of the model training and evaluation. It includes performance metrics such as accuracy, precision, recall, and F1 score, along with visualizations to interpret the model's performance.
 
-##  usage
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+
+## License
+This setup ensures that anyone cloning your repository can easily install the necessary dependencies and run the notebook.
+
+```bash
+pip install -r requirements.txt
+
+
