@@ -22,36 +22,6 @@ The dataset used in this project contains transaction records, with features rep
 To run the notebook, you'll need to install the required Python libraries. You can do this using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
-git clone https://github.com/yourusername/FraudDetectionSystem.git
-cd FraudDetectionSystem
-jupyter notebook FraudDetectionSystem.ipynb
-
-## Installation
-To run the notebook, you'll need to install the required Python libraries. You can do this using the following command:
-
-```bash
-pip install -r requirements.txt
-
-```bash
-pip install -r requirements.txt
-Usage
-To use this notebook, simply clone the repository and run the notebook using Jupyter:
-
-```bash
-git clone https://github.com/yourusername/FraudDetectionSystem.git
-cd FraudDetectionSystem
-jupyter notebook FraudDetectionSystem.ipynb
-
-## Results
-The notebook provides detailed steps and results of the model training and evaluation. It includes performance metrics such as accuracy, precision, recall, and F1 score, along with visualizations to interpret the model's performance.
-
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This setup ensures that anyone cloning your repository can easily install the necessary dependencies and run the notebook.
-Feel free to make changes as required.
-
+##  usage
